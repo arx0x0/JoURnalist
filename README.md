@@ -7,12 +7,16 @@ Homepage:
 
 <img width="1440" alt="Screen Shot 2022-09-18 at 6 16 46 PM" src="https://user-images.githubusercontent.com/93293461/191679229-3a88da20-1ee2-4dfd-830a-a8ac624fe6f7.png">
 
+Weather Page: 
+
+<img width="1440" alt="Screen Shot 2022-09-18 at 6 17 15 PM" src="https://user-images.githubusercontent.com/93293461/191679391-e38c418d-91fa-43af-8dea-479f520d7691.png">
+
+
 
 ### Prerequisites
 ```
 Please use your own API key from [Open Weather Map](https://home.openweathermap.org/).
 ```
-
 ```
 Must have node, express, mongoDB, mongoose, ejs, boostrap 5 (optional), all installed beforehand
 ```
