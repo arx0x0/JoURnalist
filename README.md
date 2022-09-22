@@ -5,8 +5,8 @@ Users can also submit their local weather from the homepage which gets rendered 
 
 ```
 Homepage:
-<img width="1440" alt="Screen Shot 2022-09-18 at 6 16 19 PM" src="https://user-images.githubusercontent.com/93293461/191678717-284ff2b7-eebc-4323-8fa8-e388295e5dd4.png">
 ```
+<img width="1440" alt="Screen Shot 2022-09-18 at 6 16 19 PM" src="https://user-images.githubusercontent.com/93293461/191678717-284ff2b7-eebc-4323-8fa8-e388295e5dd4.png">
 
 ### Prerequisites
 ```
