@@ -34,11 +34,11 @@ Can Deploy front end on [Heroku](https://id.heroku.com/login) OR [Github Pages](
 ```
 ## Built With
 
-## Front End
+### Front End
 * [EJS](https://ejs.co/) - Used for partials and integrating JS with HTML in ejs files
 * [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Styling and front end components
 
-## Back End
+### Back End
 * [MongoDB](https://www.mongodb.com/) - Database for storing input from the compose section
 * [Mongoose](https://mongoosejs.com/) - Library for MongoDB, used to make server code a lot more simpler
 
