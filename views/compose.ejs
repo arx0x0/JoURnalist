@@ -1,0 +1,19 @@
+<%- include('partials/header'); %>
+
+<h1>Compose</h1>
+<form class="" action="/compose" method="post">
+  <div class="form-group">
+    <label for="postTitle" class="form-label mt-2">Title</label>
+    <input type="text" class="form-control" name="postTitle" required autocomplete="off" placeholder="News Post Title - Your Name"> 
+    <label for="postBody" class="form-label mt-3">Post</label>
+    <textarea class="form-control" name="postBody" required rows="5" placeholder="Write your content here..."></textarea>
+    <!-- <label for="theSource" class="form-label mt-2">Source(s)</label>
+    <input type="link" class="form-control" name="theSource" placeholder="Insert Source(s)" required> -->
+  </div>
+
+    <button type="submit" class="btn btn-dark mt-2" name="button">Publish</button>
+
+</form>
+
+
+<%- include('partials/footer'); %>

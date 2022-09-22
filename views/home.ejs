@@ -1,0 +1,43 @@
+<%- include('partials/header'); %>
+
+<h1>Home</h1>
+<p><%= startingContent %></p>
+<p><%= guideLines %> </p>
+
+<div class="container my-4">
+  <h1 class="mb-3 mt-5">Share The Weather Over At Your End!</h1>
+<form class= "" action="/" method="post">  
+  <div class = "form-group">
+    <label for="userInput" class="form-label my-0">Your Name: </label>
+    <input id="userInput" class="form-control" type="text" name= "userName">
+    <label for="cityInput" class="form-label mt-2">City Name: </label>
+    <input id="cityInput" class="form-control" type="text" name= "cityName">
+    <label for="provinceName" class="form-label mt-2">State/Province: </label>
+    <input id="provinceName" class="form-control" type="text" name= "provinceName">
+   </div>
+  <button type="submit" class="btn btn-dark mt-2">I'm Ready</button>
+</form>
+</div>
+
+<div class="container">
+  <h1>Latest Posts:</h1>
+  <!-- blogPosts here is equivalent to the blogArray, so each time someone posts from the compose.ejs's form, it gets sent to line 40 in app.js, which then gets pushed to blogArray and blogArray equals blogPost array, so we are able to access it through home.ejs file and then changes to home.ejs file get rendered again in app.js  -->
+    
+<% posts.forEach(post => {  %>   
+  <div class="container my-3">
+    <h2><%= post.title %></h2>
+    <p><%= post.content.substring(0,100) + " ..." %>
+      <a href="/posts/<%=post._id%>">Read More</a>
+    </p>  
+
+  </div>
+ 
+<% });                          %>
+
+
+</div>
+
+
+
+<%- include('partials/footer'); %>
+

@@ -1,0 +1,12 @@
+<%- include('partials/header'); %>
+
+<% weatherArray.forEach(post => { %>
+  <h3>Hi everyone, it is <%= post.userName %> reporting in from <%=post.query%>, <%=post.provinceName %>.</h3>
+  <h2>The temperature in <%= post.query %> is <%= post.temp %> Degrees Celsius.</h2>
+  <p>The weather as of right now appears to be <%= post.WeatherDescription %> </p>
+  <div class="bg-info mb-5">
+  <img src= <%= post.imageURL %> >
+  </div>
+<% }); %>
+     
+<%- include('partials/footer'); %>
