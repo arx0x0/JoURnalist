@@ -11,6 +11,10 @@ Weather Page:
 
 <img width="1440" alt="Screen Shot 2022-09-18 at 6 17 15 PM" src="https://user-images.githubusercontent.com/93293461/191679391-e38c418d-91fa-43af-8dea-479f520d7691.png">
 
+Create a Post/Compose Page:
+
+<img width="1440" alt="Screen Shot 2022-09-18 at 6 21 52 PM" src="https://user-images.githubusercontent.com/93293461/191679560-53bd0792-0cb2-4460-a126-5a0c0dc5950c.png">
+
 
 
 ### Prerequisites
@@ -31,7 +35,7 @@ Can Deploy front end on [Heroku](https://id.heroku.com/login) OR [Github Pages](
 ## Built With
 
 * [EJS](https://ejs.co/) - Used for partials and integrating JS with HTML in ejs files
-* [MongoDB](https://www.mongodb.com/) - Database
+* [MongoDB](https://www.mongodb.com/) - Database for storing input from the compose section
 * [Mongoose](https://mongoosejs.com/) - Library for MongoDB, used to make server code a lot more simpler
 * [Bootstrap 5] - Styling and front end components
 
