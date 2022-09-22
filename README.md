@@ -37,7 +37,7 @@ Can Deploy front end on [Heroku](https://id.heroku.com/login) OR [Github Pages](
 * [EJS](https://ejs.co/) - Used for partials and integrating JS with HTML in ejs files
 * [MongoDB](https://www.mongodb.com/) - Database for storing input from the compose section
 * [Mongoose](https://mongoosejs.com/) - Library for MongoDB, used to make server code a lot more simpler
-* [Bootstrap 5] - Styling and front end components
+* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Styling and front end components
 
 ## Authors
 
