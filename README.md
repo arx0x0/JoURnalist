@@ -3,10 +3,10 @@
 Fullstack news blog site, where users can compose their own narrations of ongoing news stories and publish them onto the homepage of the site. 
 Users can also submit their local weather from the homepage which gets rendered on the weather section of the site. 
 
-```
 Homepage:
-```
-<img width="1440" alt="Screen Shot 2022-09-18 at 6 16 19 PM" src="https://user-images.githubusercontent.com/93293461/191678717-284ff2b7-eebc-4323-8fa8-e388295e5dd4.png">
+
+<img width="1440" alt="Screen Shot 2022-09-18 at 6 16 46 PM" src="https://user-images.githubusercontent.com/93293461/191679229-3a88da20-1ee2-4dfd-830a-a8ac624fe6f7.png">
+
 
 ### Prerequisites
 ```
