@@ -27,7 +27,7 @@ Must have node, express, mongoDB, mongoose, ejs, boostrap 5 (optional), all inst
 
 ## Deployment
 ```
-Can Deploy using [monogDB-atlas](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general_prosp-brand_gic-null_amers-ca_ps-all_desktop_eng_lead&utm_term=mongo%20data%20base&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=1718986501&adgroup=66929790666&gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKK88XHeyai9Iz3H_GvVUtX4cZ4NfHXYUjVllGCcK1T77Mi25y0t2RIaApaKEALw_wcB) for the database. 
+Can Deploy using [atlas](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general_prosp-brand_gic-null_amers-ca_ps-all_desktop_eng_lead&utm_term=mongo%20data%20base&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=1718986501&adgroup=66929790666&gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKK88XHeyai9Iz3H_GvVUtX4cZ4NfHXYUjVllGCcK1T77Mi25y0t2RIaApaKEALw_wcB) for the database. 
 ```
 ```
 Can Deploy front end on [Heroku](https://id.heroku.com/login) OR [Github Pages](https://pages.github.com/) and then [connect it to atlas](https://www.mongodb.com/developer/products/atlas/use-atlas-on-heroku/)
