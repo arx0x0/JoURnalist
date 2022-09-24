@@ -1,7 +1,7 @@
 # JoURnalist
 
 Fullstack news blog site, where users can compose their own narrations of ongoing news stories through the compose page and on submit, their posts get published onto the homepage of the site. 
-Users can also submit their local weather from the homepage which gets rendered on the weather section of the site. 
+Users can also submit their local weather from the homepage, which gets rendered on the weather section of the site. 
 
 Homepage:
 
