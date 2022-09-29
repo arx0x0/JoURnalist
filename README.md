@@ -35,7 +35,7 @@ Can Deploy front end on [Heroku](https://id.heroku.com/login) OR [Github Pages](
 ## Built With
 
 ### Front End
-* [EJS](https://ejs.co/) - Used for partials and for integrating JS with HTML in ejs files
+* [EJS](https://ejs.co/) - Used for partials and for integrating JS with HTML in EJS files
 * [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Styling and front end components
 
 ### Back End
